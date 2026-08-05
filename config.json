@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "csv-mini-dashboard",
+      "title": "CSV Mini Dashboard",
+      "description": "Build a beginner-friendly mini dashboard with pandas and matplotlib using a small CSV dataset.",
+      "path": "assignments/csv-mini-dashboard",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sales_data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }

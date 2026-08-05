@@ -1,0 +1,16 @@
+order_id,category,revenue,region
+1,Electronics,420,North
+2,Books,80,South
+3,Home,210,East
+4,Electronics,560,West
+5,Books,95,North
+6,Home,180,South
+7,Clothing,140,East
+8,Electronics,390,North
+9,Clothing,160,West
+10,Books,120,South
+11,Home,260,North
+12,Electronics,610,East
+13,Clothing,130,South
+14,Books,75,West
+15,Home,230,East
